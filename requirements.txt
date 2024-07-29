@@ -12,4 +12,4 @@ gradio
 youtube-search-python
 
 # MacOS seems to need this for pyttsx3
-pyobjc == 9.0.1
+# pyobjc == 9.0.1
