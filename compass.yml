@@ -1,0 +1,13 @@
+name: VoiceAssistant
+id: ari:cloud:compass:b099cca4-e168-464e-955f-9bc5bd1e455b:component/3d461702-821a-4c5d-a6f6-eb922d0c914e/434a9c00-1e41-4b14-80c6-94a70aec6121
+description: A VoiceAsistant with WhisperAI speech recognition
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links: []
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
